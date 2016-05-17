@@ -1,8 +1,7 @@
 <?php
 
-//class definition
+//Class definition: think of a class as a template or blue-print from which we can create other objects.
 class Cars {
-//object blueprint
 
 }
 
